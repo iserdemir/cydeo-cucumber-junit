@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Etsy website testings
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 38.737 s - in Etsy website testings
